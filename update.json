@@ -1,5 +1,5 @@
 {
-  "latestBuild": 4,
-  "message": "Une nouvelle version de DD Radio est disponible sur TestFlight.",
+  "latestBuild": 9,
+  "message": "Une nouvelle version de DD Radio est disponible sur TestFlight. Elle corrige la radio RTL, qui ne fonctionnait plus.",
   "updateURL": "https://testflight.apple.com/join/s2vsJmsg"
 }
