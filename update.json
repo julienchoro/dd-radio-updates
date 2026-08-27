@@ -1,5 +1,5 @@
 {
-  "latestBuild": 9,
-  "message": "Une nouvelle version de DD Radio est disponible sur TestFlight. Elle corrige la radio RTL, qui ne fonctionnait plus.",
+  "latestBuild": 12,
+  "message": "Nouveauté : RBM, la radio du Bassin Minier, rejoint la liste. L'application propose désormais huit stations.",
   "updateURL": "https://testflight.apple.com/join/s2vsJmsg"
 }
